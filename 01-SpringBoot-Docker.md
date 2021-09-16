@@ -5,6 +5,8 @@
   - Prefer to use a Gradle project
   - Add the Spring Web dependency
   - Set the metadata on your choice
+- Test the build of the project using CLI
+  - E.g. using the `gradle bootJar` task.
 - Setup an IDE for your project (VSCode, IntelliJ or any of your choice)
 - Add some HTTP GET Mapping definitions to the Application class to specify an example HTTP response
   - Add Java import specifications
