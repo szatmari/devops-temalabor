@@ -24,3 +24,10 @@
   - http://localhost:8080/*your-get-endpoint*
 
 
+## References
+
+- Docker overview: https://docker-curriculum.com/#introduction
+- ReteLab1 education material: https://ftsrg.mit.bme.hu/rete-lab-lecture-notes/retelab1-lab4-deployment.html
+- DevOps course material - Docker: https://inf.mit.bme.hu/sites/default/files/materials/category/kateg%C3%B3ria/oktat%C3%A1s/v%C3%A1laszthat%C3%B3-t%C3%A1rgyak/devops/19/05_Docker.pptx
+- DevOps course material - Build: https://inf.mit.bme.hu/sites/default/files/materials/category/kateg%C3%B3ria/oktat%C3%A1s/v%C3%A1laszthat%C3%B3-t%C3%A1rgyak/devops/19/02_Verzi%C3%B3kezel%C3%A9s-Ford%C3%ADt%C3%A1s.pptx
+
