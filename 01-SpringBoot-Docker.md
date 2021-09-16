@@ -2,6 +2,9 @@
 
 
 - Based on the https://spring.io/quickstart tutorial, use the https://start.spring.io/ project generator to generate a new Web-enabled SpringBoot project
+  - Prefer to use a Gradle project
+  - Add the Spring Web dependency
+  - Set the metadata on your choice
 - Setup an IDE for your project (VSCode, IntelliJ or any of your choice)
 - Add some HTTP GET Mapping definitions to the Application class to specify an example HTTP response
   - Add Java import specifications
