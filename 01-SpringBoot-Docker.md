@@ -8,6 +8,9 @@
   - Add the @RestController annotation to the class
   - Add function with a @GetMapping annotation and specify the behaviour
 - Test the HTTP GET Parameter management
+- Execute the project on your local machine
+  - `gradle bootRun`
+  - http://localhost:8080/*your-get-endpoint*
 - Using the bootBuildImage Gradle task build a docker image for your project
   - `gradle bootBuildImage`
 - Test the docker image, start it and using a port mapping publish the default port 8080 to your host interface and check the content using a browser
