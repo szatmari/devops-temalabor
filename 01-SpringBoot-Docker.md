@@ -15,6 +15,7 @@
 - Test the HTTP GET Parameter management
 - Execute the project on your local machine
   - `gradle bootRun`
+  - `curl localhost:8080/*your-get-endpoint*`
   - http://localhost:8080/*your-get-endpoint*
 - Using the bootBuildImage Gradle task build a docker image for your project
   - `gradle bootBuildImage`
